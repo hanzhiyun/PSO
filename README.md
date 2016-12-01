@@ -4,19 +4,19 @@ Particle Swarm Optimization
 
 Working on Matlab
 
-åŸºæœ¬å‡½æ•°ï¼š
-PsoProcess   ä¸»å‡½æ•°ï¼ŒåŒ…æ‹¬å‚æ•°çš„è¾“å…¥ï¼Œç»“æžœè¾“å‡ºï¼Œç§ç¾¤çš„è¿­ä»£è®¡ç®—ï¼Œå¤šæ¬¡é‡å¤è®¡ç®—
+»ù±¾º¯Êý£º
+PsoProcess   Ö÷º¯Êý£¬°üÀ¨²ÎÊýµÄÊäÈë£¬½á¹ûÊä³ö£¬ÖÖÈºµÄµü´ú¼ÆËã£¬¶à´ÎÖØ¸´¼ÆËã
 
-InitSwarm    ç”Ÿæˆåˆå§‹ç§ç¾¤
+InitSwarm    Éú³É³õÊ¼ÖÖÈº
 
-BaseStepPso  ç§ç¾¤å•æ­¥æ›´æ–°
+BaseStepPso  ÖÖÈºµ¥²½¸üÐÂ
 
-AdaptFunc    é€‚åº”åº¦å‡½æ•°ï¼Œçº¦æŸæ¡ä»¶ç”¨ç½šå‡½æ•°æ¥ä½“çŽ°ï¼ˆæ•ˆçŽ‡æ¯”è¾ƒä½Žï¼‰
+AdaptFunc    ÊÊÓ¦¶Èº¯Êý£¬Ô¼ÊøÌõ¼þÓÃ·£º¯ÊýÀ´ÌåÏÖ£¨Ð§ÂÊ±È½ÏµÍ£©
 
 
-è¾“å…¥å‚æ•°åŸºæœ¬è¦æ±‚ï¼š
+ÊäÈë²ÎÊý»ù±¾ÒªÇó£º
 
-ç²’å­ä½ç½®å˜é‡æŒ‰01å˜é‡ï¼Œæ•´å½¢å˜é‡ï¼Œéžæ•´åž‹å˜é‡æŽ’åˆ—
+Á£×ÓÎ»ÖÃ±äÁ¿°´01±äÁ¿£¬ÕûÐÎ±äÁ¿£¬·ÇÕûÐÍ±äÁ¿ÅÅÁÐ
 
-éœ€è¦è¾“å…¥æ‰€æœ‰å˜é‡çš„å¯è¡ŒåŸŸï¼ˆä¸èƒ½ä¸ºæ— ç©·å¤§ï¼‰
+ÐèÒªÊäÈëËùÓÐ±äÁ¿µÄ¿ÉÐÐÓò£¨²»ÄÜÎªÎÞÇî´ó£©
   
